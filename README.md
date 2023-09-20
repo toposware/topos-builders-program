@@ -30,7 +30,7 @@ There are five categories of grants available for the Testnet Cohort:
 
 Grants will be awarded over two payment milestones. Grant Recipients submit a payment milestone issue through GitHub and a form. For the payment to be unlocked, milestone submissions will need to be accepted by Toposware Inc.
 
-* Milestone 1 is for 20% of the grant payment, and submission is one week after the project kick-off, (this is generally the 'Effective Date,' the date of the Grant Agreement).
+* Milestone 1 is for 20% of the grant payment, and submission is one week after the project kick-off.
 * Milestone 2 is for the remaining 80% of the grant payment and is expected to be submitted at the end of the project timeline (from three to ten weeks, depending on the agreed timeline for the project).
 
 Find out more about the Milestones here: [Milestone Guide](./milestone_guide.md)
