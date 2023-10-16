@@ -36,7 +36,7 @@ Milestone 1 has universal acceptance criteria. You will have:
 
 >[!IMPORTANT]
 >Submitting your Payment Milestone 1 is a simple three-step process and needs to be executed in order:
->1. Create a new issue using the [Milestones 1 template](REPLACE). Once you've filled in the template, submit the issue.
+>1. Create a new issue using the [Milestones 1 template](https://github.com/toposware/topos-builders-program/issues/new?assignees=&labels=Milestone+Submission&projects=toposware%2Ftopos-builders-program&template=milestone_template.yml&title=%5BMilestone+1+Submission%5D%3A+). Once you've filled in the template, submit the issue.
 >2. Fill in the [milestone form](http://buildersprogram.toposware.com/milestonesform1). You will need to include a link to the submitted issue.
 >3. Send your invoice to the Topos Builders Program [email address](mailto:builders@toposware.com).
 
@@ -66,7 +66,7 @@ Your milestone will be reviewed within 10 working days. Once the milestone is ac
 
 >[!IMPORTANT]
 >Submitting your payment Milestone 2 is a simple three-step process and needs to be executed in order:
->1. Create a new issue using the [Milestone 2 template](REPLACE). Once you've filled in the template, submit the issue.
+>1. Create a new issue using the [Milestone 2 template](https://github.com/toposware/topos-builders-program/issues/new?assignees=&labels=Milestone+Submission&projects=toposware%2Ftopos-builders-program&template=milestone_2_template.yml&title=%5BMilestone+2+Submission%5D%3A+). Once you've filled in the template, submit the issue.
 >2. Fill in the [milestone form](http://buildersprogram.toposware.com/milestonesform2). You will need to include a link to the submitted issue.
 >3. Send your invoice to the Topos Builders Program [email address](mailto:builders@toposware.com).
 
