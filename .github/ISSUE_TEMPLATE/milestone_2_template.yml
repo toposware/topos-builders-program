@@ -1,0 +1,55 @@
+name: Milestone Submission
+description: To submit a Milestone
+title: "[Milestone 2 Submission]: "
+labels: ["Milestone 2 Submission"]
+projects: ["toposware/topos-builders-program"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+          **Instructions:**
+          This is the first part of a three-part process to submit Milestone 2. Part 1 focuses on the technical aspects of your Milestone submission. Part 2 is a form that confirms you are who you say you are, and triggers the review of your Milestone. For part 3, you need to send your invoice to builders@toposware.com
+  - type: input
+    id: project_title
+    attributes:
+      label: Project title
+      description: Name of your Project
+    validations:
+      required: true
+  - type: input
+    id: project_application_link
+    attributes:
+      label: Link to grant application issue
+      description: Please link to the original Grant Application issue you submitted during the application process.
+    validations:
+      required: true
+  - type: textarea
+    id: milestone_submission
+    attributes:
+      label: Milestone submission
+      description: Please mirror the information you provided in the summary of your Milestones in your application.
+      value: |
+        Milestone Number:
+        Milestone Summary:
+        Milestone Timeframe: 
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Milestone Deliverables
+
+        Throughout this section, please:
+
+          1. Include any information that you think is relevant to the deliverable in each section.
+          2. Highlight any deliverables that significantly deviate from your Grant Agreement with a brief explanation of the difference.
+  - type: input
+    id: repository_link
+    attributes:
+      label: Link to the open-source code/delivery
+      description: Please link to the relevant GitHub repository
+  - type: markdown
+    attributes:
+      value: |
+        ***
+        Once you have submitted this issue, please fill in the [form for Milestone 2](http://buildersprogram.toposware.com/milestonesform2).
