@@ -37,7 +37,7 @@ Do not ask your Grant Sponsor for tech support or about the grant process. You c
 If you have been approved and accepted onto the Topos Builders Program you should be onboarded into a private support area in the [Topos Discord](https://discord.gg/zMCqqCbGMV). If you can't see the private channels, email [builders@toposware.com](mailto:builders@toposware.com). Or ping a DevRel in the open Topos Discord.
 
 
-### When is the project kick-off date / the Effective date? When can I start my project?
+### When is the project kick-off date/the Effective date? When can I start my project?
 
 The Effective Date is the date on your Grant Agreement. The kick-off date is the start of the clock for your project timeline and milestone payment dates. The kick-off date is in your Grant Agreement in Exhibit A.
 

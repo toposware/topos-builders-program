@@ -36,7 +36,7 @@
 		* **Privacy through zero-knowledge proofs:** In the context of Topos, ZKPs are used to prove that transactions are valid and their outcomes computed according to the rules of their subnet, all while keeping sensitive transaction details hidden. This technology represents a significant advancement in maintaining user privacy while retaining the ability to transparently verify the transaction history.
 		* **Interoperability:** Soverign blockchains in the Topos ecosystem gain friction-free and secure interoperability out of the box.
 4. Quote
-	* Your CEO / CTO / Founder may want to include a quote of why they picked the Topos Builders Program or the Topos Protocol to help gain more visibility and traction in the market.
+	* Your CEO/CTO/Founder may want to include a quote of why they picked the Topos Builders Program or the Topos Protocol to help gain more visibility and traction in the market.
 5. Description of Toposware
 	* If you wish to mention Toposware or the Topos Protocol within the body of your text we recommend the following or similar:
 		* Toposware is creating the technical groundwork for a new standard for Web3 while solving some of the hardest problems in cryptography and distributed systems.
