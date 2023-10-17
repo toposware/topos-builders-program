@@ -39,22 +39,13 @@ body:
       value: |
         ## Milestone Deliverables
 
-        **Important information for Milestone 1**
-        To complete the Issue for Milestone 1, you only need to fill in the section 'Link to the open-source code/Delivery' and 'Licence'.  If you can fill in any other fields, it will be appreciated but is not mandatory. Please put n/a in the irrelevant fields.
-        
         To submit Milestone 1 you need to have achieved the following:
-        Committed high-quality code that is representative of the rest of the project. 
-          1. It must be either modified open-source code or created by you. If the code is modified, it must include the relevant licenses for use, modification and publication. The original code in this case must be licensed under APACHE2. 
-          2. Code should show that you will be capable of carrying out the project.
-          3. This is an indicator of intent and should show that you've begun the project, you do not need to have created anything else.
+        Committed high-quality code that is representative of the rest of the project.
 
-        **Important information for Milestone 2**
+        1. It must be either modified open-source code or created by you. If the code is modified, it must include the relevant licenses for use, modification and publication. The original code in this case must be licensed under APACHE2.
+        2. Code should show that you will be capable of carrying out the project.
+        3. This is an indicator of intent and should show that you've begun the project, you do not need to have created anything else.
 
-        To complete milestones 2 you must complete the following fields.
-        
-        Throughout this section, please
-          1. Include any information that you think is relevant to the deliverable in each section.
-          2. Highlight any deliverables that significantly deviate from your Grant Agreement with a brief explanation of the difference.
   - type: input
     id: repository_link
     attributes:
