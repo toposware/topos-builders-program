@@ -10,9 +10,14 @@ Grants are awarded over two payment milestones. Grant Recipients submit a paymen
 * Milestone 1 is for 20% of the grant payment, and submission is one week after the project kick-off.
 * Milestone 2 is for the remaining 80% of the grant payment and is expected to be submitted at the end of the project timeline (from three to ten weeks, depending on the agreed timeline for the project).
 
-## Acceptance criteria for Payment Milestones
+You only need to submit a milestone for payment milestones. You should discuss with your Grant Sponsor how you submit additional development milestones. You should only have additional development milestones if you feel you will need support and check-ins with the team to move forward with your project.
 
-**Milestone 1:**
+## 1️⃣ Milestone 1
+
+The submission date for Milestone 1 is one week after your project kick-off date.
+
+### 👍 Milestone 1 acceptance criteria
+
 Milestone 1 has universal acceptance criteria. You will have:
 
 <ol>
@@ -27,33 +32,51 @@ Milestone 1 has universal acceptance criteria. You will have:
 	<li>You have submitted the milestones issue and all associated submission tasks.</li>
 </ol>
 
-Your milestone will be reviewed within 5 working days. Once the milestone is accepted, payment will be made in USDC in accordance with your Grant Agreement (usually 14 days).
-
-**Milestone 2:**
-Milestone 2 is due at the end of the agreed time to complete the project. To fulfill this Milestone acceptance criteria it is expected:
-
-1. You have fulfilled the grant specification as set out in your Grant Agreement.
-2. Critical functions have test coverage and those tests pass.
-3. Where applicable, the system is deployed and functioning on a Topos testnet.
-4. You have submitted the milestones issue and all associated submission tasks.
-
-Your milestone will be reviewed within 10 working days. Once the milestone is accepted, payment will be made in USDC in accordance with your Grant Agreement (usually 14 days).
-
-## 📋 Submitting your Milestones
+## 📋 Submitting your Milestone 1
 
 >[!IMPORTANT]
->Submitting your Payment Milestones is a simple three-step process and needs to be executed in order:
->1. Create a new issue using the [milestones template](https://github.com/toposware/topos-builders-program/issues/new?assignees=&labels=Milestone+Submission&projects=toposware%2Ftopos-builders-program&template=milestone_template.yml&title=%5BMilestone+Submission%5D%3A+). Once you've filled in the template, submit the issue.
->2. Fill in the [milestone form](http://buildersprogram.toposware.com/milestonesform). You will need to include a link to the submitted issue.
+>Submitting your Payment Milestone 1 is a simple three-step process and needs to be executed in order:
+>1. Create a new issue using the [Milestones 1 template](https://github.com/toposware/topos-builders-program/issues/new?assignees=&labels=Milestone+Submission&projects=toposware%2Ftopos-builders-program&template=milestone_template.yml&title=%5BMilestone+1+Submission%5D%3A+). Once you've filled in the template, submit the issue.
+>2. Fill in the [milestone form](http://buildersprogram.toposware.com/milestonesform1). You will need to include a link to the submitted issue.
 >3. Send your invoice to the Topos Builders Program [email address](mailto:builders@toposware.com).
 
 >[!NOTE]
->* You only need to submit a milestone for Payment Milestones. You should discuss with your Grant Sponsor how you submit additional Development Milestones. You should only have additional Development Milestones if you feel you will need support and check-ins with the team to move forward with your project.
 >* You must complete all steps using the same email address that you have used to apply and accept the Grant.
->* You may submit your milestones before the submission date, the Toposware team will endeavor to review your submission earlier, but can not guarantee it.
 >* If you have a delay for any reason you must email the Topos Builders Program email address before the submission date and CC your Grant Sponsor.
+>* Your milestone will be reviewed within 5 working days. Once the milestone is accepted, payment will be made in USDC in accordance with your Grant Agreement (usually 14 days).
 
-Milestone requirements:
+## 2️⃣ Milestone 2
+
+Milestone 2 is due at the end of the agreed time to complete the project.
+
+### 👍 Milestone 2 acceptance criteria
+
+To fulfill this Milestone acceptance criteria it is expected:
+
+<ol>
+	<li>You have fulfilled the grant specification as set out in your Grant Agreement.</li>
+	<li>Critical functions have test coverage and those tests pass.</li>
+	<li>Where applicable, the system is deployed and functioning on a Topos testnet.</li>
+	<li>You have submitted the Milestones Issue and all associated submission tasks.</li>
+</ol>
+
+Your milestone will be reviewed within 10 working days. Once the milestone is accepted, payment will be made in USDC in accordance with your Grant Agreement (usually 14 days).
+
+### 📋 Submitting Milestone 2
+
+>[!IMPORTANT]
+>Submitting your payment Milestone 2 is a simple three-step process and needs to be executed in order:
+>1. Create a new issue using the [Milestone 2 template](https://github.com/toposware/topos-builders-program/issues/new?assignees=&labels=Milestone+Submission&projects=toposware%2Ftopos-builders-program&template=milestone_2_template.yml&title=%5BMilestone+2+Submission%5D%3A+). Once you've filled in the template, submit the issue.
+>2. Fill in the [milestone form](http://buildersprogram.toposware.com/milestonesform2). You will need to include a link to the submitted issue.
+>3. Send your invoice to the Topos Builders Program [email address](mailto:builders@toposware.com).
+
+>[!NOTE]
+>* You must complete all steps using the same email address that you have used to apply and accept the Grant.
+>* You may submit your Milestone 2 before the submission date, the Toposware team will endeavor to review your submission earlier, but cannot guarantee it.
+>* If you have a delay for any reason, you must email the Topos Builders Program [email address](mailto:builders@toposware.com) before the submission date and CC your Grant Sponsor.
+>* Your milestone will be reviewed within 10 working days. Once the milestone is accepted, payment will be made in USDC in accordance with your Grant Agreement (usually 14 days).
+
+**Milestone 2 requirements:**
 
 * Code produced as part of the grant must be open source and must not rely on closed-source software for full functionality. Please license your code under Apache 2.0.
 * Where applicable please document the areas below. Do not write detailed explanations of already existing components.
