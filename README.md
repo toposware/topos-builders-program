@@ -20,7 +20,7 @@ The Topos Builders Program is prioritizing applications with a focus on their ut
 
 ## 🧭 Current grants
 
-You will find information on current grants available for the Topos Builders Program here.
+You will find information on any currently open grants at our Toposware Visionary Initiatives landing page.
 
 ## 💲 Payment
 
